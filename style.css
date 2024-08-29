@@ -1,5 +1,5 @@
 body {
-    background-color: #1d9e2a;
+    background-color: #0c89bb;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
     display: flex;
@@ -10,7 +10,7 @@ body {
 }
 
 button {
-    background-color: #107962;
+    background-color: #e60f0f;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
 }
@@ -31,4 +31,3 @@ main {
 img {
     max-width: 90%;
 }
-
